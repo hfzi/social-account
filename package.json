@@ -1,0 +1,19 @@
+{
+  "name": "social-account",
+  "version": "1.0.6",
+  "description": "Easy social media auth package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hfzi/borek"
+  },
+  "keywords": [
+    "cookie",
+    "getcookie",
+    "setcookie",
+    "updatecookie",
+    "checkcookie"
+  ],
+  "author": "HFZI",
+  "license": "MIT"
+}
